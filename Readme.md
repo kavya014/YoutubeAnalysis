@@ -1,5 +1,4 @@
-# AI-Project---Team-2
-Cross-Cultural Influences on TrendingYoutube Videos
+# Cross-Cultural Influences on TrendingYoutube Videos
 1. Section 3 in report on 'Dataset Description' is made from data/Merging Raw DataFiles.
 2. Section 3.1 in report on 'Dataset Description' is made from data/read_data.ipynb.
 3. Section 3.2 in report on 'Data Analysis' is made from code/EDA/1-Analysis based on views,likes,dislikes,comment count.
